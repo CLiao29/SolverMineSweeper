@@ -99,6 +99,4 @@ bool Game::resultCheck() {
         }
     }
     return true;
-        
-
 }
